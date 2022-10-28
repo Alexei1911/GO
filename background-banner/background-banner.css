@@ -1,0 +1,20 @@
+.background-banner {
+  background-image: url("../background-banner/img/VR_glasses.png");
+  background-position: 635px 207px;
+  background-repeat: no-repeat;
+  background-size: 675px 762px;
+  width: 1440px;
+  height: 882px;
+}
+
+.background-banner__second-line {
+  font-size: 28px;
+  font-weight: 400;
+  margin: 0;
+  padding-left: 230px;
+}
+
+.background-banner__heading {
+  padding-left: 130px;
+  text-align: left;
+}
